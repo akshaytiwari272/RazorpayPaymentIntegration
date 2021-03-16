@@ -1,0 +1,25 @@
+body{  
+    background-image:url('../image/testing4.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+ .text{
+    width: 450px;
+    margin: 8% auto 0;
+    padding: 20px;
+    border-radius: 30px;
+    box-shadow: 0 0 7px 0 green;
+    text-align: center;
+    opacity: 0.8;
+    background: #fff;
+} 
+.text h1{
+    color : blue;
+    font-size: 24px;
+    margin-bottom: 10px; 
+    
+}
+
+    
